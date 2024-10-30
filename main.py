@@ -1,39 +1,40 @@
 import pandas as pd
 import json
 import os
+import re
 
 
 def json_to_excel(json_folder, excel_file):
-
     data = []
 
-    for json_file in os.listdir(json_folder):
-        if json_file.endswith('.json'):
-            json_path = os.path.join(json_folder, json_file)
-            with open(json_path, 'r', encoding='utf-8') as f:
-                content = json.load(f)
+    for root, _, files in os.walk(json_folder):
+        for json_file in files:
+            if json_file.endswith('.json'):
+                json_path = os.path.join(root, json_file)
+                with open(json_path, 'r', encoding='utf-8') as f:
+                    content = json.load(f)
 
-            es_translations = flatten_dict(content.get("es", {}))
-            en_translations = flatten_dict(content.get("en", {}))
-            cn_translations = flatten_dict(content.get("cn", {}))
+                es_translations = flatten_dict(content.get("es", {}))
+                en_translations = flatten_dict(content.get("en", {}))
+                cn_translations = flatten_dict(content.get("cn", {}))
 
-            for keys, spanish in es_translations:
-                english = next(
-                    (en_val for en_keys, en_val in en_translations if en_keys == keys), "")
-                chinese = next(
-                    (cn_val for cn_keys, cn_val in cn_translations if cn_keys == keys), "")
+                for keys, spanish in es_translations:
+                    english = next(
+                        (en_val for en_keys, en_val in en_translations if en_keys == keys), "")
+                    chinese = next(
+                        (cn_val for cn_keys, cn_val in cn_translations if cn_keys == keys), "")
 
-                row = {
-                    "Archivo": json_file,
-                    "Español": spanish,
-                    "Ingles": english,
-                    "Chino": chinese
-                }
+                    row = {
+                        "Archivo": f"copys/{os.path.relpath(json_path, json_folder)}".replace("\\", "/"),
+                        "Español": spanish,
+                        "Ingles": english,
+                        "Chino": chinese
+                    }
 
-                for i, key in enumerate(keys):
-                    row[f"Llave_{i+1}"] = key
+                    for i, key in enumerate(keys):
+                        row[f"Llave_{i+1}"] = key
 
-                data.append(row)
+                    data.append(row)
 
     df = pd.DataFrame(data)
 
@@ -56,7 +57,7 @@ def flatten_dict(d, parent_keys=[]):
 
 
 def excel_to_json(excel_file, json_folder):
-    df = pd.read_excel(excel_file)
+    df = pd.read_excel(excel_file).fillna('')  # Reemplaza NaN con cadena vacía
 
     if not os.path.exists(json_folder):
         os.makedirs(json_folder)
@@ -74,10 +75,12 @@ def excel_to_json(excel_file, json_folder):
 
         for _, row in df_file.iterrows():
             keys = [row['Llaves']]
-            if not pd.isna(row[2]):
+            if row[2] != '':
                 keys.append(row[2])
-            if not pd.isna(row[3]):
+            if row[3] != '':
                 keys.append(row[3])
+            if row[4] != '':
+                keys.append(row[4])
 
             spanish = row['Español']
             english = row['Ingles']
@@ -87,13 +90,18 @@ def excel_to_json(excel_file, json_folder):
             add_to_dict(output["en"], keys, english)
             add_to_dict(output["cn"], keys, chinese)
 
-        nombre_json = os.path.basename(file).replace(".json", "") + ".json"
-        json_path = os.path.join(json_folder, nombre_json)
+        relative_path = file.replace('copys/', '').strip('/')
+        relative_path = re.sub(r'[^a-zA-Z0-9_./-]', '', relative_path)
 
-        with open(json_path, 'w', encoding='utf-8') as f:
+        full_path = os.path.join(json_folder, relative_path)
+
+        folder_path = os.path.dirname(full_path)
+        os.makedirs(folder_path, exist_ok=True)
+
+        with open(full_path, 'w', encoding='utf-8') as f:
             json.dump(output, f, ensure_ascii=False, indent=4)
 
-        print(f"Done: {nombre_json}")
+        print(f"Done: {full_path}")
 
 
 def add_to_dict(dic, keys, value):
@@ -107,5 +115,5 @@ def add_to_dict(dic, keys, value):
         current_level[keys[-1]] = value
 
 
-# excel_to_json("tally_copys.xlsx", "./jsons")
-json_to_excel("./jsons", "./test.xlsx")
+# excel_to_json("test.xlsx", "./copys")
+json_to_excel("./copys", "./test.xlsx")
