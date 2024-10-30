@@ -1,0 +1,449 @@
+{
+    "es": {
+        "title": "FAQs",
+        "question": {
+            "name": "¿Cómo ingreso a mi banca en línea?",
+            "content": {
+                "link": "https://www.bbva.mx/empresas/productos/segmento-pyme.html",
+                "link_text": "https://www.bbva.mx/empresas/productos/segmento-pyme.html",
+                "bold_3": "BBVA PYME",
+                "text": "Ingresando al enlace ",
+                "text_2": " o buscando ",
+                "text_3": " en el navegador de su preferencia"
+            },
+            "content_2": {
+                "text": "Seleccionar “Personas y Gobierno” y dar click al botón de Acceso."
+            },
+            "content_4": {
+                "text": "Capturar los 16 números de la Tarjeta de Acceso seguro."
+            },
+            "content_6": {
+                "text": "Posteriormente ingresar los 10 dígitos del número de cuenta, escribir ADMINF en Usuario, y en Contraseña la Clave de Acceso."
+            }
+        },
+        "question_2": {
+            "name": "¿Cómo instalo la app de BBVA Empresa?",
+            "content": {
+                "link_2": "https://www.bbva.mx/empresas/landings/bbva-empresas-mexico.html",
+                "link_text_2": "BBVA Empresas México | Empresas | BBVA México",
+                "bold": "BBVA EMPRESAS MÉXICO",
+                "text": "La app se encuentra disponible en las tiendas Google Play Store y App Store. Se debe buscar ",
+                "text_2": " en el navegador de su aplicación y seleccionar instalar Para mayor información consultar el enlace:"
+            },
+            "content_2": {
+                "link_3": "https://calendly.com/edgar-consultabanco/30min",
+                "link_text_3": "aquí",
+                "bold": "BBVA Empresa,",
+                "bold_3": "Clave de Acceso y Token Móvil.",
+                "text": "Una vez instalada la app de ",
+                "text_2": "usted deberá notificar a Tally que intentará ingresar a su app, lo cual hará con su ",
+                "text_3": " Una vez ingresado el número de token móvil, uno de nuestros representantes recibirá una llamada para confirmar el alta del nuevo teléfono que se intenta registrar. Por esta razón es necesario que nos notifiquen via whatsapp que se intentará realizar el cambio, de lo contrario y por su seguridad no podremos confirmarlo. Si deseas hacerlo en conjunto con un representante de Tally, agenda una llamada "
+            }
+        },
+        "question_3": {
+            "name": "¿Cómo recibir transferencias internacionales?",
+            "content": {
+                "text": "Para recibir una transferencia internacional deberás poner los siguientes datos:"
+            },
+            "content_2": {
+                "text": "Beneficiario: [Nombre completo de tu empresa]"
+            },
+            "content_3": {
+                "text": "Account: [Cuenta CLABE 18 digitos]"
+            },
+            "content_4": {
+                "text": "SWIFT: BCMRMXMMPYM"
+            },
+            "content_5": {
+                "text": "Banco: BBVA-MEXICO"
+            },
+            "content_6": {
+                "text": "Dirección Banco: Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX"
+            }
+        },
+        "question_4": {
+            "name": "¿Cuánto cuesta la banca en línea (comisiones desglosadas)?",
+            "content": {
+                "text": "Por política de Tally hemos contratado un seguro para la banca en línea, el cual únicamente se deberá pagar por un periodo de 5 meses."
+            },
+            "content_2": {
+                "text": "Este seguro incluye la reposición gratuita de tokens móviles. Al finalizar la contratación del seguro, ahorras de forma permanente cualquier comisión que se te llegue a generar en un futuro."
+            },
+            "content_3": {
+                "text": "Esto nos permite tener buena relación con BBVA y hacerles a ustedes un ahorro a largo plazo."
+            }
+        },
+        "question_5": {
+            "name": "¿Cómo utilizar el token bancario?",
+            "content": {
+                "text": "Deberás escanear el código QR cada vez que desees tener acceso a la app o realizar cualquier operación. Es indispensable  que cuides el token ya que sin este no podrás tener acceso a la banca en línea. En caso de perderlo podrás solicitar otro totalmente gratis si cuentas con el seguro BBVA, solo se cobrarán los costos de envío."
+            }
+        },
+        "question_6": {
+            "name": "¿Cómo solicitar una terminal punto de venta?",
+            "content": {
+                "text": "Se solicita directamente al asesor ejecutivo de BBVA."
+            }
+        },
+        "question_7": {
+            "name": "¿Cómo me contacto con el banco?",
+            "content": {
+                "text": "Ejecutivo BBVA: Iván Caballero"
+            },
+            "content_2": {
+                "text": "Horario de atención:"
+            },
+            "content_3": {
+                "text": "8:00 am - 11:00 am CST"
+            },
+            "content_4": {
+                "text": "5:00 pm - 7:00 pm CST"
+            },
+            "content_5": {
+                "text": "Contacto:"
+            },
+            "content_6": {
+                "text": "Escribe por WhatsApp para solicitar una llamada. Iván no contesta números desconocidos."
+            },
+            "content_7": {
+                "text": "Menciona el nombre de tu empresa mexicana."
+            },
+            "content_8": {
+                "text": "Se paciente, ya que Iván recibe numerosos mensajes diarios."
+            },
+            "content_9": {
+                "text": "Sucursal:"
+            },
+            "content_10": {
+                "text": "Av. Pdte. Masaryk 43, Polanco, Miguel Hidalgo, 11560 Ciudad de México, CDMX"
+            }
+        },
+        "question_8": {
+            "name": "¿Cómo pago mis impuestos?",
+            "content": {
+                "link": "https://www.bbva.mx/empresas/servicios-digitales/pago-de-impuestos-empresas.html#soy-cliente",
+                "link_text": "https://www.bbva.mx/empresas/servicios-digitales/pago-de-impuestos-empresas.html#soy-cliente",
+                "text": "Se pagan a través de la banca en línea ingresando al siguiente enlace"
+            },
+            "content_3": {
+                "link": "https://www.bbva.mx/empresas/servicios-digitales/pago-de-impuestos/sipare.html",
+                "link_text": "Sipare | Empresas | BBVA México",
+                "text": "Tambien es posible pagar las aportaciones del IMMS RCV e INFONAVIT por medio del siguiente enlace: "
+            }
+        },
+        "question_9": {
+            "name": "¿Cuáles son las comisiones de BBVA?",
+            "content": {
+                "text": "Por política de Tally, para usuarios de representación, hemos contratado un Seguro de Banca en Línea, el cual únicamente se deberá pagar por 6 meses. Al haber contratado el Seguro no se generarán comisiones por el uso de la Banca en Línea o saldos mínimos menores a los $12,000.00 mxn en la cuenta en pesos y $80.00 usd en la cuenta en dólares, asimismo solicitar la reposición o un nuevo token bancario no tendrá costo alguno más que el de envío."
+            },
+            "content_2": {
+                "text": "Si usted ve que se le cobra alguna comisión, deberá comunicarse con el asesor de BBVA."
+            }
+        },
+        "question_10": {
+            "name": "¿Qué otros beneficios tengo por usar BBVA empresas?",
+            "point": "Derecho a chequera(opcional si el cliente ocupa).",
+            "point_2": "Tarjeta de débito empresarial (reposición gratuita).",
+            "point_3": "Servicio de nómina (dispersión de nómina a través del portal bbva.com gratuito)",
+            "point_4": "Reposición token o tarjeta de acceso (tas) sin costo por reposición."
+        }
+    },
+    "en": {
+        "title": "FAQs",
+        "question": {
+            "name": "How to log into my online banking account?",
+            "content": {
+                "link": "https://www.bbva.mx/empresas/productos/segmento-pyme.html",
+                "link_text": "https://www.bbva.mx/empresas/productos/segmento-pyme.html",
+                "bold_3": "BBVA PYME",
+                "text": "By entering the link  ",
+                "text_2": " or searching ",
+                "text_3": " in the browser of your choice"
+            },
+            "content_2": {
+                "text": "Select “People and Government” and click the Access button."
+            },
+            "content_4": {
+                "text": "Capture the 16 numbers of the secure Access Card."
+            },
+            "content_6": {
+                "text": "Then enter the 10 digits of the account number, write ADMINF in User, and the Access Code in Password."
+            }
+        },
+        "question_2": {
+            "name": "How do I install the BBVA Empresa app?",
+            "content": {
+                "link_2": "https://www.bbva.mx/empresas/landings/bbva-empresas-mexico.html",
+                "link_text_2": "BBVA Empresas Mexico | Companies | BBVA Mexico",
+                "bold": "BBVA COMPANIES MEXICO",
+                "text": "The app is available in the Google Play Store and App Store. must be searched ",
+                "text_2": " in the browser of your application and select install For more information consult the link:"
+            },
+            "content_2": {
+                "link_3": "https://calendly.com/edgar-consultabanco/30min",
+                "link_text_3": "here",
+                "bold": "BBVA Company,",
+                "bold_3": "Access Key and Mobile Token.",
+                "text": "Once the app is installed ",
+                "text_2": "You will need to notify Tally that you will try to log into your app, which you will do with your ",
+                "text_3": " Once the mobile token number has been entered, one of our representatives will receive a call to confirm the registration of the new phone that you are trying to register. For this reason it is necessary that you notify us via WhatsApp that you will try to make the change, otherwise and for your security we will not be able to confirm it. If you would like to do this together with a Tally representative, schedule a call "
+            }
+        },
+        "question_3": {
+            "name": "How to receive international transfers?",
+            "content": {
+                "text": "To receive an international transfer you must enter the following information:"
+            },
+            "content_2": {
+                "text": "Beneficiary: [Full name of your company]"
+            },
+            "content_3": {
+                "text": "Account: [18 digit CLABE account]"
+            },
+            "content_4": {
+                "text": "SWIFT: BCMRMXMMPYM"
+            },
+            "content_5": {
+                "text": "Banco: BBVA-MEXICO"
+            },
+            "content_6": {
+                "text": "Bank Address: Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Mexico City, CDMX"
+            }
+        },
+        "question_4": {
+            "name": "How much does online banking cost (fees broken down)?",
+            "content": {
+                "text": "As per Tally policy, we have contracted insurance for online banking, which must only be paid for a period of 5 months."
+            },
+            "content_2": {
+                "text": "This insurance includes free replenishment of mobile tokens. By completing the insurance contract, you permanently save any commission that may be generated in the future."
+            },
+            "content_3": {
+                "text": "This allows us to have a good relationship with BBVA and provide you with long-term savings."
+            }
+        },
+        "question_5": {
+            "name": "How to use the banking token?",
+            "content": {
+                "text": "You must scan the QR code every time you want to access the app or perform any operation. It is essential that you take care of the token since without it you will not be able to access online banking. If you lose it, you can request another one completely free of charge if you have BBVA insurance, only shipping costs will be charged."
+            }
+        },
+        "question_6": {
+            "name": "How to request a point of sale terminal?",
+            "content": {
+                "text": "It is requested directly from the BBVA executive advisor."
+            }
+        },
+        "question_7": {
+            "name": "How do I contact the bank?",
+            "content": {
+                "text": "BBVA Executive: Iván Caballero"
+            },
+            "content_2": {
+                "text": "Opening hours:"
+            },
+            "content_3": {
+                "text": "8:00 am - 11:00 am CST"
+            },
+            "content_4": {
+                "text": "5:00 pm - 7:00 pm CST"
+            },
+            "content_5": {
+                "text": "Contact:"
+            },
+            "content_6": {
+                "text": "Write on WhatsApp to request a call. Iván does not answer unknown numbers."
+            },
+            "content_7": {
+                "text": "Mention the name of your Mexican company."
+            },
+            "content_8": {
+                "text": "Be patient, as Ivan receives numerous messages daily."
+            },
+            "content_9": {
+                "text": "Branch:"
+            },
+            "content_10": {
+                "text": "Av. Pdte. Masaryk 43, Polanco, Miguel Hidalgo, 11560 Mexico City, CDMX"
+            }
+        },
+        "question_8": {
+            "name": "How do I pay my taxes?",
+            "content": {
+                "link": "https://www.bbva.mx/empresas/servicios-digitales/pago-de-impuestos-empresas.html#soy-cliente",
+                "link_text": "https://www.bbva.mx/empresas/servicios-digitales/pago-de-impuestos-empresas.html#soy-cliente",
+                "text": "They are paid through online banking by entering the following link"
+            },
+            "content_3": {
+                "link": "https://www.bbva.mx/empresas/servicios-digitales/pago-de-impuestos/sipare.html",
+                "link_text": "Sipare | Companies | BBVA Mexico",
+                "text": "It is also possible to pay the IMMS RCV and INFONAVIT contributions through the following link: "
+            }
+        },
+        "question_9": {
+            "name": "What are BBVA's commissions?",
+            "content": {
+                "text": "As per Tally policy, for proxy users, we have contracted Online Banking Insurance, which must only be paid for 6 months. Having contracted the Insurance, no commissions will be generated for the use of Online Banking or minimum balances less than $12,000.00 mxn in the peso account and $80.00 usd in the dollar account, also requesting replacement or a new bank token will not have any cost more than shipping."
+            },
+            "content_2": {
+                "text": "If you see that you are charged a commission, you should contact the BBVA advisor."
+            }
+        },
+        "question_10": {
+            "name": "What other benefits do I have for using BBVA companies?",
+            "point": "Right to checkbook (optional if the client occupies).",
+            "point_2": "Business debit card (free replacement).",
+            "point_3": "Payroll service (payroll distribution through the free bbva.com portal)",
+            "point_4": "Token or access card (tas) replacement at no replacement cost."
+        }
+    },
+    "cn": {
+        "title": "常见问题解答",
+        "question": {
+            "name": "我如何访问我的网上银行？",
+            "content": {
+                "link": "https://www.bbva.mx/empresas/productos/segmento-pyme.html",
+                "link_text": "https://www.bbva.mx/empresas/productos/segmento-pyme.html",
+                "bold_3": "西班牙对外银行中小企业",
+                "text": "输入链接 ",
+                "text_2": " 或搜索 ",
+                "text_3": " 在您选择的浏览器中"
+            },
+            "content_2": {
+                "text": "选择“人民和政府”并单击“访问”按钮。"
+            },
+            "content_4": {
+                "text": "获取安全门禁卡的 16 个号码。"
+            },
+            "content_6": {
+                "text": "然后输入10位帐号，在User中写入ADMINF，在Password中写入Access Code。"
+            }
+        },
+        "question_2": {
+            "name": "如何安装 BBVA Empresa 应用程序？",
+            "content": {
+                "link_2": "https://www.bbva.mx/empresas/landings/bbva-empresas-mexico.html",
+                "link_text_2": "BBVA Empresas 墨西哥 |公司 | BBVA 墨西哥",
+                "bold": "BBVA 公司 墨西哥",
+                "text": "该应用程序可在 Google Play 商店和 App Store 中使用。必须搜查 ",
+                "text_2": " 在您的应用程序的浏览器中，然后选择安装有关更多信息，请参阅链接："
+            },
+            "content_2": {
+                "link_3": "https://calendly.com/edgar-consultabanco/30min",
+                "link_text_3": "这里",
+                "bold": "BBVA 公司，",
+                "bold_3": "访问密钥和移动令牌。",
+                "text": "安装应用程序后",
+                "text_2": "您需要通知 Tally 您将尝试登录您的应用程序，您将使用您的",
+                "text_3": " 输入移动令牌号码后，我们的一名代表将接到电话，以确认您尝试注册的新手机已注册。因此，您有必要通过 WhatsApp 通知我们您将尝试进行更改，否则为了您的安全，我们将无法确认。如果您想与 Tally 代表一起执行此操作，请安排电话 "
+            }
+        },
+        "question_3": {
+            "name": "如何接收国际转账？",
+            "content": {
+                "text": "要接收国际转账，您必须输入以下信息："
+            },
+            "content_2": {
+                "text": "受益人：[贵公司全名]"
+            },
+            "content_3": {
+                "text": "账号：【18位CLABE账号】"
+            },
+            "content_4": {
+                "text": "SWIFT: BCMRMXMMPYM"
+            },
+            "content_5": {
+                "text": "银行： BBVA-MEXICO"
+            },
+            "content_6": {
+                "text": "银行地址：Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Mexico City, CDMX"
+            }
+        },
+        "question_4": {
+            "name": "网上银行的费用是多少（费用明细）？",
+            "content": {
+                "text": "根据 Tally 政策，我们已签订网上银行保险，保险期限为 5 个月。"
+            },
+            "content_2": {
+                "text": "该保险包括免费补充移动令牌。通过完成保险合同，您将永久节省未来可能产生的任何佣金。"
+            },
+            "content_3": {
+                "text": "这使我们能够与 BBVA 保持良好的关系，并为您提供长期的节省。"
+            }
+        },
+        "question_5": {
+            "name": "如何使用银行代币？",
+            "content": {
+                "text": "每次您想要访问应用程序或执行任何操作时，都必须扫描二维码。您必须保管好令牌，因为没有它您将无法访问网上银行。如果您丢失了，如果您有 BBVA 保险，则可以完全免费索取另一份，仅收取运费。"
+            }
+        },
+        "question_6": {
+            "name": "如何申请销售点终端？",
+            "content": {
+                "text": "直接向 BBVA 执行顾问提出要求。"
+            }
+        },
+        "question_7": {
+            "name": "我如何联系银行？",
+            "content": {
+                "text": "BBVA 执行官：Iván Caballero"
+            },
+            "content_2": {
+                "text": "开放时间："
+            },
+            "content_3": {
+                "text": "上午 8:00 - 上午 11:00（中部标准时间）"
+            },
+            "content_4": {
+                "text": "下午 5:00 - 晚上 7:00（中部标准时间）"
+            },
+            "content_5": {
+                "text": "接触："
+            },
+            "content_6": {
+                "text": "在 WhatsApp 上写信请求致电。伊万没有接听未知号码。"
+            },
+            "content_7": {
+                "text": "提及您的墨西哥公司的名称。"
+            },
+            "content_8": {
+                "text": "请耐心等待，因为伊万每天都会收到大量消息。"
+            },
+            "content_9": {
+                "text": "分支："
+            },
+            "content_10": {
+                "text": "AV。 Masaryk 43, Polanco, 米格尔·伊达尔戈, 11560 墨西哥城, CDMX"
+            }
+        },
+        "question_8": {
+            "name": "我如何缴税？",
+            "content": {
+                "link": "https://www.bbva.mx/empresas/servicios-digitales/pago-de-impuestos-empresas.html#soy-cliente",
+                "link_text": "https://www.bbva.mx/empresas/servicios-digitales/pago-de-impuestos-empresas.html#soy-cliente",
+                "text": "输入以下链接通过网上银行付款"
+            },
+            "content_3": {
+                "link": "https://www.bbva.mx/empresas/servicios-digitales/pago-de-impuestos/sipare.html",
+                "link_text": "西帕雷|公司 | BBVA 墨西哥",
+                "text": "还可以通过以下链接支付 IMMS RCV 和 INFONAVIT 捐款： "
+            }
+        },
+        "question_9": {
+            "name": "BBVA 的佣金是多少？",
+            "content": {
+                "text": "根据Tally政策，对于代理用户，我们签订了网上银行保险，只需支付6个月的保险。签订保险后，使用网上银行或比索账户中的最低余额低于 12,000.00 美元，美元账户中的最低余额低于 80.00 美元，将不会产生任何佣金，同时要求更换或新的银行代币的费用不会超过船运。"
+            },
+            "content_2": {
+                "text": "如果您发现需要支付佣金，您应该联系 BBVA 顾问。"
+            }
+        },
+        "question_10": {
+            "name": "使用 BBVA 公司还有哪些其他好处？",
+            "point": "支票簿的权利（如果客户占用则可选）。",
+            "point_2": "商业借记卡（免费更换）。",
+            "point_3": "薪资服务（通过免费的 bbva.com 门户分配薪资）",
+            "point_4": "令牌或门禁卡 (tas) 更换无需更换费用。"
+        }
+    }
+}

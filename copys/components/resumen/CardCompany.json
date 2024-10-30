@@ -1,0 +1,23 @@
+{
+    "es": {
+        "title": "Nueva empresa",
+        "subtitle": "Nombre y tipo de sociedad",
+        "company_name": "Nombre de tu empresa",
+        "company_legal_name": "Nombre legal de tu empresa",
+        "company_type": "Tipo de sociedad",
+        "rpc": "Registro Público (RPC)",
+        "rpc_download": "Descargar RPC",
+        "act_download": "Descargar Acta",
+        "status_pending": "Sin Iniciar",
+        "status_valitation": "Revisando",
+        "status_complete": "Completado",
+        "status_reject": "Rechazado",
+        "types_societies": {
+            "sa": "S.A de C.V.",
+            "sapi": "S.A.P.I de C.V.",
+            "srl": "S. de R.L. de C.V."
+        }
+    },
+    "en": {},
+    "cn": {}
+}

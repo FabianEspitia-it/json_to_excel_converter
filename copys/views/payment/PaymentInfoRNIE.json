@@ -1,0 +1,19 @@
+{
+    "es": {
+        "return": "Regresar",
+        "title": "Inscripción al Registro Nacional de Inversión Extranjera (RNIE)",
+        "msj": {
+            "title": "Importante",
+            "text": "Hemos notado que hay socios extranjeros en tu Constitución. Por ley, deberán realizar una solicitud de inscripción al Registro Nacional de Inversión Extranjera en los próximos 40 días."
+        },
+        "text": "Tally puede realizar el RNIE por ti, agrega el servicio y nosotros nos encargamos del resto.",
+        "total": "Total: ",
+        "cash": "$",
+        "money": " MXN",
+        "pay": "pago único",
+        "add_button": "Agregar servicio",
+        "open_modal": "Continuar sin (RNIE)"
+    },
+    "en": {},
+    "cn": {}
+}

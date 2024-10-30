@@ -1,0 +1,20 @@
+{
+    "es": {
+        "loader": "Esto tardará unos segundos",
+        "title": "Visa",
+        "text": "Tarjeta de crédito con terminación •••• ",
+        "open_modal": "Actualizar"
+    },
+    "en": {
+        "loader": "This may take a few seconds",
+        "title": "Visa",
+        "text": "Card ending in •••• ",
+        "open_modal": "Update"
+    },
+    "cn": {
+        "loader": "这将需要几秒钟的时间",
+        "title": "签证",
+        "text": "结尾为••••的信用卡 ",
+        "open_modal": "更新"
+    }
+}

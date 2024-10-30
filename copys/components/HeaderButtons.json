@@ -1,0 +1,12 @@
+{
+    "es": {
+        "buttons": {
+            "Dashboard": "Inicio",
+            "Detail": "Resumen",
+            "Bank": "Banco",
+            "Documents": "Documentos"
+        }
+    },
+    "en": {},
+    "cn": {}
+}

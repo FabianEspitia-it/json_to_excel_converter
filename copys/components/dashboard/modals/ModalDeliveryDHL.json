@@ -1,0 +1,11 @@
+{
+    "es": {
+        "title": "Estado del envío",
+        "nro_guide": "Número de guía: ",
+        "sent": "Enviado desde:",
+        "destination": "Lugar de destino:",
+        "actually": "Actualmente en:"
+    },
+    "en": {},
+    "cn": {}
+}

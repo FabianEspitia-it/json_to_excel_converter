@@ -1,0 +1,14 @@
+{
+    "es": {
+        "title": "Datos complementarios",
+        "subtitle": "Compártenos más detalles de ti",
+        "cfi": "Sube tu Constancia de Situación Fiscal",
+        "consult_cfi": {
+            "text": "Si no la tienes a la mano puedes consultarla ",
+            "text_2": "aquí"
+        },
+        "next_button": "Continuar"
+    },
+    "en": {},
+    "cn": {}
+}

@@ -1,0 +1,29 @@
+{
+    "es": {
+        "title": "Agregar método de pago",
+        "month_and_year_requirements": "El mes son 2 digitos y el año 4 digitos",
+        "next_button": "Actualizar",
+        "card_number": "Número de tarjeta",
+        "month": "Mes",
+        "year": "Año",
+        "cvv": "CVV"
+    },
+    "en": {
+        "title": "Add payment method",
+        "month_and_year_requirements": "(mm/yyyy)",
+        "next_button": "Update",
+        "card_number": "Card number",
+        "month": "Month",
+        "year": "Year",
+        "cvv": "CVV"
+    },
+    "cn": {
+        "title": "添加付款方式",
+        "month_and_year_requirements": "月份为 2 位数字，年份为 4 位数字。",
+        "next_button": "更新",
+        "card_number": "卡号",
+        "month": "月",
+        "year": "年",
+        "cvv": "CVV"
+    }
+}

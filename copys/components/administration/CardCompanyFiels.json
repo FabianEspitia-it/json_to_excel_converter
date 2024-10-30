@@ -1,0 +1,38 @@
+{
+    "es": {
+        "rfc": "RFC",
+        "key": "Sube tu archivo .key",
+        "cer": "Sube tu archivo .cer",
+        "password": "Contraseña FIEL",
+        "next_button": "Agregar",
+        "modal_copys": {
+            "title": "Información recibida",
+            "text": "Podrás ver la FIEL de tu empresa siempre que lo requieras en la sección de documentos",
+            "next_button": "De acuerdo"
+        }
+    },
+    "en": {
+        "rfc": "RFC",
+        "key": "e.firma - .key",
+        "cer": "e.firma - .cer",
+        "password": "e.firma - password",
+        "next_button": "Add",
+        "modal_copys": {
+            "title": "Information received",
+            "text": "e.firma on demand in your dashboard document section",
+            "next_button": "Agree"
+        }
+    },
+    "cn": {
+        "rfc": "RFC",
+        "key": "上传您的 .key 文件",
+        "cer": "上传您的 .cer 文件",
+        "password": "忠实的密码",
+        "next_button": "添加",
+        "modal_copys": {
+            "title": "收到的信息",
+            "text": "每当您需要时，您都可以在文件部分查看您公司的忠诚度",
+            "next_button": "好的"
+        }
+    }
+}

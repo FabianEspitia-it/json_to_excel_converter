@@ -1,0 +1,42 @@
+{
+    "es": {
+        "title": "Acciones",
+        "title_srl": "Capital inicial",
+        "total": "Total de acciones",
+        "total_srl": "Total del capital inicial",
+        "min_actions": "Son mínimo 10,000 y máximo 100,000 acciones",
+        "min_actions_srl": "Son mínimo 10,000 y máximo 100,000 de capital inicial",
+        "delete_partner": "Si eliminas a un socio toda su información será borrada de nuestra base de datos y si lo requieres volver agregar, deberá volver a verificarse en nuestro sistema",
+        "commissary_partner": "Este socio es comisario por lo que no puede tener más de un 25% de acciones (si quieres editarlo, primero cambia al comisario).",
+        "commissary_partner_srl": "Este socio es comisario por lo que no puede tener más de un 25% del capital inicial (si quieres editarlo, primero cambia al comisario).",
+        "add_partner": "Agregar Socio",
+        "send_invite_partner": {
+            "text": "Le enviaremos una invitación al nuevo socio para que realice su verificación",
+            "text_2": ", mientras esperas te enviaremos a la sección de validación para que veas su progreso."
+        },
+        "percentage_total": "Total: ",
+        "min_partners": "Deben haber minimo 2 socios",
+        "partner_min_shares": "Cada socio debe tener minimo 1 acción",
+        "total_number_shares": "El total de participacion debe ser igual a 100%",
+        "min_max_actions": "Son mínimo 10,000 y máximo 100,000 acciones",
+        "min_max_actions_srl": "Son mínimo 10,000 y máximo 100,000 de capital inicial",
+        "verification_partner": "Enviaremos un correo de verificación al nuevo socio para que se valide en nuestro sistema, regresaras a la pantalla de validación.",
+        "next_button": "Guardar",
+        "cancel_button": "Cancelar",
+        "return_validation": "Regresarás a la pantalla de validación",
+        "inputs": {
+            "name": "Nombre(s)",
+            "first_names": "Primer apellido",
+            "last_names": "Segundo apellido",
+            "email": "Correo electrónico",
+            "email_error": "Ingresa un correo válido.",
+            "email_error_2": "Este correo ya está registrado, intenta con otro.",
+            "email_msj": "Enviaremos una invitación a este correo",
+            "password": "Crea una contraseña",
+            "phone": "Número de teléfono",
+            "phone_msj": "Te enviaremos un código de verificación vía SMS"
+        }
+    },
+    "en": {},
+    "cn": {}
+}

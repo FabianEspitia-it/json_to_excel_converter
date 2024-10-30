@@ -1,0 +1,13 @@
+{
+    "es": {
+        "msj": {
+            "title": "Descripción de tu compañía:",
+            "text": "Describe en forma sencilla y completa qué hace tu compañía, este un ejemplo:",
+            "text_2": "Somos una empresa dedicada a la venta de productos electrónicos. Operamos a través de nuestra plataforma en línea y una tienda física. También ofrecemos programas de software y videojuegos a nuestros clientes."
+        },
+        "description": "Cuentanos que hace tu compañia",
+        "min_char": "Deben ser mínimo 75 caracteres"
+    },
+    "en": {},
+    "cn": {}
+}

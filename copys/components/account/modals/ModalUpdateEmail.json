@@ -1,0 +1,47 @@
+{
+    "es": {
+        "title": "Actualizar correo electrónico",
+        "text": "Con este correo entras a tu cuenta de Tally",
+        "valid_code_title": "Valida tu correo electrónico",
+        "valid_code_text": "Ingresa a continuación el código de verificación que enviamos a ",
+        "resend": {
+            "text": "¿No lo recibiste?",
+            "text_link": "Reenviar"
+        },
+        "next_button": "Continuar",
+        "email": "Correo electrónico",
+        "email_error": "Ingresa un correo válido.",
+        "email_error_2": "Este correo ya está registrado, intenta con otro.",
+        "code": "Código de verificación"
+    },
+    "en": {
+        "title": "Update email address",
+        "text": "Email used for Tally account log in",
+        "valid_code_title": "Verify your email",
+        "valid_code_text": "Enter the verification code we sent to ",
+        "resend": {
+            "text": "Try another way?",
+            "text_link": "Resend"
+        },
+        "next_button": "Continue",
+        "email": "Email",
+        "email_error": "Enter a valid email address",
+        "email_error_2": "Email already exists. try alterante email or recover password",
+        "code": "Verification code"
+    },
+    "cn": {
+        "title": "更新电子邮件",
+        "text": "通过这封电子邮件，您可以输入您的 Tally 帐户",
+        "valid_code_title": "验证您的电子邮件",
+        "valid_code_text": "输入下面我们发送至的验证码 ",
+        "resend": {
+            "text": "你没有收到吗？",
+            "text_link": "向前"
+        },
+        "next_button": "继续",
+        "email": "电子邮件",
+        "email_error": "输入有效的电子邮件。",
+        "email_error_2": "该电子邮件已被注册，请尝试使用其他电子邮件。",
+        "code": "验证码"
+    }
+}

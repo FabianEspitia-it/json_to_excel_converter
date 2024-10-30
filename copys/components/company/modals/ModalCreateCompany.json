@@ -1,0 +1,47 @@
+{
+    "es": {
+        "title": "Nueva Empresa",
+        "text": "Para empezar ¿qué opción te describe mejor?",
+        "text_2": "¿Qué tipo de sociedad necesita tu empresa?",
+        "text_3": "Cuéntanos acerca de tu empresa",
+        "text_4": "¡Excelente!, ahora agrega el nombre legal de tu empresa",
+        "link_text": "¿No sabes cuál elegir?",
+        "next_button": "Continuar",
+        "legal_name": "Nombre legal de tu empresa",
+        "legal_name_error": "Mejora tus probabilidades de aprobación eligiendo un nuevo nombre.",
+        "legal_name_authorization": "Ya tengo la autorización del nombre",
+        "legal_name_ai": "Nombres legales generados con AI para ti",
+        "legal_name_ai_order": "Ordénalos de mayor a menor importancia",
+        "company_name": "Nombre de tu empresa",
+        "description": "Cuentanos que hace tu compañia",
+        "min_char": "Deben ser mínimo 75 caracteres",
+        "website": "Sitio web de la empresa",
+        "optional": "Opcional",
+        "more_denominations": "Dame más opciones",
+        "add_denomination": "Agregar mi nombre legal",
+        "foreign": {
+            "title": "Soy Extranjero",
+            "text": "Ninguno de los socios tiene ",
+            "text_bold": "RFC (número de identificación fiscal mexicano)."
+        },
+        "mexican": {
+            "title": "Resido en México",
+            "text": "Tú o alguno de tus socios es 100% mexicano o tiene tarjeta de residente y ",
+            "text_bold": "RFC válido y vigente."
+        },
+        "sapi": {
+            "title": "S.A.P.I de C.V.",
+            "text": "La favorita de los fondos de inversión, este tipo de sociedad te permite tener un consejo, emitir acciones a trabajadores clave y a inversionistas con diferentes derechos de voto."
+        },
+        "sa": {
+            "title": "S.A. de C.V.",
+            "text": "La Sociedad Anónima es ideal para cualquier tipo de negocio. Puedes nombrar a un administrador único o consejo de administración."
+        },
+        "srl": {
+            "title": "S. de R.L. de C.V.",
+            "text": "Recomendada para empresas familiares donde se pretende que los socios no varien a lo largo del tiempo, puede ser administrada por una o varias personas. "
+        }
+    },
+    "en": {},
+    "cn": {}
+}

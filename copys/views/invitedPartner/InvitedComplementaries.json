@@ -1,0 +1,29 @@
+{
+    "es": {
+        "return": "Regresar",
+        "title_nationality": "¿Cuál es tu nacionalidad?",
+        "subtitle_nationality": "Por ley, debes declarar todas las nacionalidades que tengas",
+        "title_rfc": "¿Cuentas con RFC?",
+        "subtitle_rfc": "El RFC es el número de identificación fiscal en México",
+        "msj": {
+            "title": "Importante",
+            "text": "Para cumplir con la Ley de Beneficiario Controlador, es obligatorio declarar todas tus nacionalidades sino quieres ser acreedor de una multa."
+        },
+        "yes_rfc": "Sí tengo",
+        "no_rfc": "No tengo",
+        "next_button": "Continuar",
+        "agent": {
+            "title": "¡Hola soy Pablo, CEO de Tally!",
+            "subtitle": "Te ayudaré a constituir una empresa en México",
+            "text": "Solo necesitas:"
+        },
+        "points": {
+            "point": "Decirnos tu nacionalidad",
+            "point_2": "Tener a la mano tu información fiscal",
+            "point_3": "Verificar tu identidad ",
+            "point_4": "Confirmar tus generales"
+        }
+    },
+    "en": {},
+    "cn": {}
+}

@@ -1,0 +1,59 @@
+{
+    "es": {
+        "loading_text": "Esto tardará unos segundos",
+        "title": "Cuéntanos más de tu empresa",
+        "title_tips": "💡 Tips para el nombre",
+        "description": "Cuentanos que hace tu compañia",
+        "min_char": "Deben ser mínimo 75 caracteres",
+        "website": "Sitio web de la empresa",
+        "optional": "Opcional",
+        "company_name": "Nombre de tu empresa",
+        "legal_name_ai": "Nombres legales generados con AI para ti",
+        "legal_name_ai_order": "Ordénalos de mayor a menor importancia",
+        "legal_name": "Nombre legal de tu empresa",
+        "next_button": "Continuar",
+        "legal_name_authorization": "Ya tengo la autorización del nombre",
+        "more_denominations": "Dame más opciones",
+        "add_denomination": "Agregar mi nombre legal",
+        "points": {
+            "point": {
+                "text": "Evita usar palabras restringidas como “banco” o “inversión”. ",
+                "url": "https://www.tallylegal.io/palabras-prohibidas",
+                "url_text": "Conoce la lista completa"
+            },
+            "point_2": {
+                "text": "Puede ser diferente al nombre de tu marca. "
+            },
+            "point_3": {
+                "text": "Se creativo, puedes usar números."
+            },
+            "point_4": {
+                "text": "No se permiten carácteres especiales ni acentos."
+            }
+        },
+        "company_examples": {
+            "trade_name": "Nombre comercial",
+            "legal_name": "Nombre legal",
+            "companies": {
+                "starbucks": {
+                    "name": "Starbucks",
+                    "legal_name": "Operadora Cafe Sirena S.A. de C.V."
+                },
+                "mc_donalds": {
+                    "name": "McDonald’s",
+                    "legal_name": "Arcos Dorados Holdings S.A. de C.V."
+                },
+                "burger_king": {
+                    "name": "Burger King",
+                    "legal_name": "Restaurant Brands International S.A. de C.V."
+                },
+                "telcel": {
+                    "name": "Telcel",
+                    "legal_name": "Radiomóvil Dipsa S.A. de C.V."
+                }
+            }
+        }
+    },
+    "en": {},
+    "cn": {}
+}

@@ -1,0 +1,68 @@
+{
+    "es": {
+        "title": "Datos Cuenta ",
+        "subtitle_mxn": "Para recibir una transferencia en mxn deberás compartir esto datos",
+        "subtitle_usd": "Para recibir una transferencia internacional deberás compartir esto datos",
+        "account_benefit": "Beneficiario",
+        "account_number": "Número de cuenta en ",
+        "account_clabe": "CLABE ",
+        "swift": "SWIFT",
+        "bank": "Banco",
+        "bank_name": "BBVA-MEXICO",
+        "address_bank": "Dirección Banco",
+        "address": "Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+        "copy_all_data": " Copiar todos los datos",
+        "copy_data": {
+            "benefit": "Beneficiario:",
+            "account": "Cuenta:",
+            "clabe": "Clabe:",
+            "swift": "SWIFT:",
+            "bank": "Banco: BBVA-MEXICO",
+            "address": "Dirección Banco: Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX"
+        }
+    },
+    "en": {
+        "title": "account details ",
+        "subtitle_mxn": "documents required to receive mxn wires in Mexico",
+        "subtitle_usd": "documents required to receive out of country wires in Mexico",
+        "account_benefit": "beneficiary",
+        "account_number": "Account number in ",
+        "account_clabe": "CLABE ",
+        "swift": "SWIFT",
+        "bank": "Bank",
+        "bank_name": "BBVA-MEXICO",
+        "address_bank": "Bank address",
+        "address": "Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+        "copy_all_data": " Copy all data",
+        "copy_data": {
+            "benefit": "Beneficiary:",
+            "account": "Account:",
+            "clabe": "CLABE:",
+            "swift": "SWIFT:",
+            "bank": "Banco: BBVA-MEXICO",
+            "address": "Dirección Banco: Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX"
+        }
+    },
+    "cn": {
+        "title": "账户数据 ",
+        "subtitle_mxn": "要接收 mxn 转账，您必须分享此信息",
+        "subtitle_usd": "要接收国际转账，您必须分享此信息",
+        "account_benefit": "受益人",
+        "account_number": "帐号在 ",
+        "account_clabe": "克拉贝 ",
+        "swift": "迅速",
+        "bank": "银行",
+        "bank_name": "BBVA-墨西哥",
+        "address_bank": "银行地址",
+        "address": "Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+        "copy_all_data": " 复制所有数据",
+        "copy_data": {
+            "benefit": "受益人：",
+            "account": "帐户：",
+            "clabe": "克拉贝：",
+            "swift": "迅速：",
+            "bank": "银行： BBVA-MEXICO",
+            "address": "银行地址： Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX"
+        }
+    }
+}

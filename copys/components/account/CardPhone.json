@@ -1,0 +1,17 @@
+{
+    "es": {
+        "loader": "Esto tardará unos segundos",
+        "title": "Teléfono",
+        "open_modal": "Actualizar"
+    },
+    "en": {
+        "loader": "This may take a few seconds",
+        "title": "Phone number",
+        "open_modal": "Update"
+    },
+    "cn": {
+        "loader": "这将需要几秒钟的时间",
+        "title": "电话",
+        "open_modal": "更新"
+    }
+}

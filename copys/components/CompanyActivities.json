@@ -1,0 +1,13 @@
+{
+    "es": {
+        "msj": {
+            "title": "En lista hasta 5 actividades más importantes de tu compañía:",
+            "text": "Selecciona las actividades principales que realiza tu empresa o con las que más te identificas. Recuerda que puedes escribir una desde cero si ninguna se acomoda. Es importante reflejar tus áreas clave y los servicios que ofreces."
+        },
+        "text": "Escoge una categoría para tu negocio",
+        "options": "Elige hasta 5 opciones",
+        "search": "Puedes escribir las categorias en caso de no encontrarlas"
+    },
+    "en": {},
+    "cn": {}
+}

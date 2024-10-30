@@ -1,0 +1,11 @@
+{
+    "es": {
+        "company": "Empresa",
+        "company_type": "Razón social",
+        "rfc": "RFC",
+        "creation_date": "Creación",
+        "action": "Acción"
+    },
+    "en": {},
+    "cn": {}
+}

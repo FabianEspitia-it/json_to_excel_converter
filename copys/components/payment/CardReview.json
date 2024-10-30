@@ -1,0 +1,43 @@
+{
+    "es": {
+        "reviews": {
+            "inmotion": {
+                "name_ceo": "Aida Taveras",
+                "position": "CEO at Inmotion",
+                "text": "“Tienen un servicio integral a un precio razonable. Además cuentan con atención personalizada.”"
+            },
+            "krowdy": {
+                "name_ceo": "Oscar Villamonte",
+                "position": "Managing Partner KROWDY",
+                "text": "“Te mantienen al tanto de la cosas a medida que va avanzando el trámite”"
+            },
+            "firma_virtual": {
+                "name_ceo": "Diego Chávez",
+                "position": "Country Manager Firma Virtual Legal",
+                "text": "“Estamos muy contentos con la opción que hemos podido encontrar en Tally”"
+            },
+            "latitud": {
+                "name_ceo": "Brian Requarth",
+                "position": "Co-Founder",
+                "text": "“Recién creada una subsidiaria gracias a Tally ¡Vamos Latituders!.”"
+            },
+            "fonoa": {
+                "name_ceo": "Aida Taveras",
+                "position": "Co-Founder",
+                "text": "“Iniciamos operaciones en México en menos de un mes, listos para contratar a nuestros empleados.”"
+            },
+            "port_blue": {
+                "name_ceo": "Ismael Triay",
+                "position": "Deputy CEO",
+                "text": "“Impresionante la diferente de Tally y los servicios tradicionales ¡Altamente recomendado!”"
+            },
+            "formula_air": {
+                "name_ceo": "Hà Mạnh Cường",
+                "position": "Co-Owner at Formula Air JSC",
+                "text": "“Un rapido servicio. Algunos procesos son complicados de hacer en Mexico pero con Tally todo fue simple.”"
+            }
+        }
+    },
+    "en": {},
+    "cn": {}
+}

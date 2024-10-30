@@ -1,0 +1,33 @@
+{
+    "es": {
+        "title": "Regístrate para crear",
+        "divider": "o ingresa tus datos",
+        "password_requirements": "8 caracteres mínimo",
+        "phone_message": "Te enviaremos un código de verificación vía SMS",
+        "agreement": {
+            "text": "Acepto los",
+            "text_2": "Términos y Condiciones",
+            "text_3": "y",
+            "text_4": "Aviso de privacidad"
+        },
+        "register_button": "Registrarme",
+        "inputs": {
+            "name": "Primer nombre",
+            "first_names": "Primer apellido",
+            "email": "Correo electrónico",
+            "email_error": "Ingresa un correo válido.",
+            "email_error_2": "Este correo ya está registrado, intenta con otro.",
+            "password": "Crea una contraseña",
+            "phone": "Número de teléfono"
+        },
+        "modal_copys": {
+            "title": "Ingresa tu número de teléfono",
+            "text": "Te enviaremos un código de verificación vía SM",
+            "message_title": "¿Para qué te pedimos tu número?",
+            "message_text": "Lo necesitamos para mantenerte al tanto del proceso de tu nueva empresa",
+            "next_button": "Continuar"
+        }
+    },
+    "en": {},
+    "cn": {}
+}

@@ -1,0 +1,11 @@
+{
+    "es": {
+        "title": "Ingresa un correo",
+        "text": "Compartiremos a ese correo el ",
+        "email": "Correo electrónico",
+        "email_error": "Ingresa un correo válido.",
+        "next_button": "Confirmar"
+    },
+    "en": {},
+    "cn": {}
+}

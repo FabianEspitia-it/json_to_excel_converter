@@ -1,0 +1,61 @@
+{
+    "es": {
+        "button_text": "Continuar",
+        "title_steps": {
+            "step_zero": {
+                "text": "¿Qué actividad realizará ",
+                "text_2": "?"
+            },
+            "step_one": "Agrega a 2 socios como mínimo",
+            "step_two": {
+                "title": {
+                    "start_srl": "¿Ingresa el Capital Inicial que tendrá",
+                    "start": "¿Cuántas acciones en total tendrá",
+                    "end": "?"
+                },
+                "title_2_srl": "Dinos cuanto capital aportará cada socio",
+                "title_2": "Ahora, asigna el porcentaje de cada socio"
+            },
+            "step_three": {
+                "commissary": "Asigna un Comisario",
+                "commissary_srl": "Asigna un vigilante",
+                "commissary_tally": "Por último, agrega un Comisario",
+                "commissary_tally_srl": "Por último, agrega un vigilante",
+                "subtitle": "Esta figura es el vigilante de la sociedad y es obligatorio por ley"
+            }
+        },
+        "msj_partners": {
+            "title": "Importante",
+            "texts": {
+                "text": "Si alguno de los socios es otra empresa (Persona Moral), hemos diseñado el siguiente proceso para facilitar la Constitución:",
+                "text_2": "Paso 1. Constituye tu empresa 100% digital con dos personas físicas/naturales (de cualquier nacionalidad).",
+                "text_3": "Paso 2. Posterior a la Constitución, Ingresa a tu dashboard y solicita la transmisión de acciones a la Empresa Madre o Holding Company."
+            }
+        },
+        "msj_distribution": {
+            "title": "¿Qué son las acciones?",
+            "texts": {
+                "text": "Las acciones son las partes en las que se compone una empresa. Entre más acciones tengas, mayor será tu participación dentro de esta."
+            }
+        },
+        "msj_commissary": {
+            "title": "Tips",
+            "texts": {
+                "text": {
+                    "text_bold": "Agrega a un amigo: ",
+                    "text": "no puedes agregar familiares de ningún socio."
+                },
+                "text_2": {
+                    "text_bold": "Asigna a un socio: ",
+                    "text": "que no tenga más del 25% de participación y no podrá ocupar otro rol en la empresa."
+                },
+                "text_3": {
+                    "text_bold": "Agrega a Tally: ",
+                    "text": "te ayudaremos a presentar tu asamblea anual y te conectamos con el SAT para que puedas ver tus ingresos y facturación."
+                }
+            }
+        }
+    },
+    "en": {},
+    "cn": {}
+}

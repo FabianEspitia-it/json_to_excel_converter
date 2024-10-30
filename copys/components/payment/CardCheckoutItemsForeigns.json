@@ -1,0 +1,38 @@
+{
+    "es": {
+        "text": "Todo lo que necesitas para iniciar en México y cumplir con tus obligaciones legales y fiscales.",
+        "text_2": "Pago mensual",
+        "annual_msj": {
+            "text": "Facturado a ",
+            "text_2": " al año"
+        },
+        "plan": {
+            "monthly": "Pago mensual",
+            "monthly_2": "Compromiso anual",
+            "annual": "Ahorra 20%",
+            "annual_2": "Paga todo el año"
+        },
+        "point_title": "Qué incluye tu plan:",
+        "point_title_2": "Todo lo que incluye el plan Starter más:",
+        "point_read": "Leer ",
+        "point_plus": "más",
+        "point_minus": "menos",
+        "products": {
+            "softlanding": "Starter",
+            "import_export_plus": "Import/Export Plus"
+        },
+        "items": {
+            "softlanding": {
+                "name": "Softlanding",
+                "points": "[{'text': 'Constitución de empresa', 'points': ['Redacción de estatutos', 'Gastos notariales', 'Derechos de inscripción en el registro público', 'Únicamente accionistas persona física']}, {'text': 'Representación legal ante el SAT', 'points': ['Apoderado legal ante la autoridad fiscal', 'Obtención de RFC y eFirma', 'Domicilio fiscal para oír y recibir notificaciones']}, {'text': 'Apertura de cuenta de banco', 'points': ['Cuenta en pesos en BBVA', 'Cuenta en dólares en BBVA']}, {'text': 'Registro en Inversión Extranjera', 'points': ['Inscripción en el Registro Nacional de Inversión Extranjera']}, {'text': 'Contabilidad e impuestos', 'points': ['Te asignamos a un contador experto.', 'Cálculo y declaraciones de impuestos mensual (IVA e ISR)', 'Declaración de impuestos anual', 'Asesoría fiscal básica', 'Facturación']}]"
+            },
+            "import_export_plus": {
+                "name": "Import/Export Plus",
+                "msj": "*No incluye trámites migratorios, licitaciones públicas, obtención de licencias o permisos.",
+                "points": "[{'text': 'Alta en Padrón de Importadores y Exportadores', 'points': ['Alta en Padrón General y Sectorial']}, {'text': 'Gestionamos tu transporte de carga de principio a fin', 'points': ['Transporta carga marítima, aérea o terrestre', 'Usa contenedores, pallets o cajas', 'Mueve de puerto a puerto, multimodal o sumando traslado terrestre']}, {'text': 'Asesoría integral de comercio exterior', 'points': ['Determinación de clasificación arancelaria', 'Cálculo de contribuciones', 'Trámites de regulaciones (NOMs)', 'Restricciones no arancelarias']}]"
+            }
+        }
+    },
+    "en": {},
+    "cn": {}
+}

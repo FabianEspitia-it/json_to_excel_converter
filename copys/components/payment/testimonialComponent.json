@@ -1,0 +1,38 @@
+{
+    "es": {
+        "testimonials": {
+            "vane": {
+                "name": "Vanessa Huerta",
+                "text": "“ Excelente Servicio y disponibilidad. Siempre nos sentimos muy guiados en todo, más en nuestro caso que somos extranjeros Tally nos dio la confianza para sentirnos seguros con cada uno de los trámites. Es un servicio que recomiendo al 100% y que usaria nuevamente. ”",
+                "company": "Mercado Eunoia"
+            },
+            "aldi": {
+                "name": "Aldi Montiel",
+                "text": "“ Estaba buscando opciones para constituir mi empresa cuando encontré a Tally Legal. Ha sido una gran experiencia, me encanta que todo el proceso sea digital y rápido. En menos de un mes ya tenía el acta constitutiva de mi empresa. ”",
+                "company": "Rolling Vibes"
+            },
+            "ceci": {
+                "name": "Cecilia Atschuler",
+                "text": "“ Tally me encaminó a todo lo legal. Si no hubiera sido con Tally, igual y me hubiera tardado mucho más y gastado mucho dinero. Esa es otra cosa, cuando no sabes y lo quieres hacer por tu cuenta, siento que sale mucho más caro el caldo que las albóndigas. ”",
+                "company": "Nutigram"
+            },
+            "mar": {
+                "name": "Mario Sotelo",
+                "text": "“ La atención del equipo de tally fue excelente. Todo el proceso fue muy sencillo y rápido. La verdad es que no pudieron ser mejores acompañantes en este paso del negocio. ”",
+                "company": "Thinkworks"
+            },
+            "dieg": {
+                "name": "Diego García",
+                "text": "“ Muy agradecido de haber conocido a Tally. Todo el proceso fue muy rápido, seguro y me entregaron todo a tiempo. En menos de un mes ya teníamos el acta constitutiva y la cita para el SAT. ”",
+                "company": "Naturaleza en Desarrollos"
+            },
+            "clau": {
+                "name": "Claudia Domínguez",
+                "text": "“ La experiencia ha sido muy buena y de alta calidad. Esta es la primera empresa que constituimos con Tally y en unos días iniciaremos una segunda constitución. ”",
+                "company": "Cadoma LT"
+            }
+        }
+    },
+    "en": {},
+    "cn": {}
+}
