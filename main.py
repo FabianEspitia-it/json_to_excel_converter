@@ -115,5 +115,5 @@ def add_to_dict(dic, keys, value):
         current_level[keys[-1]] = value
 
 
-excel_to_json("test.xlsx", "./copys")
-# json_to_excel("./copys", "./test.xlsx")
+# excel_to_json("test.xlsx", "./copys")
+json_to_excel("./copys", "./test.xlsx")
