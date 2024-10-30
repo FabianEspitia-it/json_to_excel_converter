@@ -1,0 +1,18 @@
+{
+    "es": {
+        "title": "Danos 3 opciones de denominación",
+        "title_2": {
+            "text": "El nombre legal ",
+            "text_2": " fue rechazado"
+        },
+        "title_3": {
+            "text": "Los nombres legales ",
+            "text_2": " fueron rechazados"
+        },
+        "text": "Agrega 3 opciones por orden de preferencia",
+        "reject": "Rechazaron el nombre legal debido a que hay un registro parecido en la Secretaría de Economía.",
+        "next_button": "Agregar"
+    },
+    "en": {},
+    "cn": {}
+}

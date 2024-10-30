@@ -1,0 +1,24 @@
+{
+    "es": {
+        "next_button": "Iniciar",
+        "agent": {
+            "title": "¡Hola soy Pablo, CEO de Tally!",
+            "subtitle": "Te ayudaré a crear una empresa en México",
+            "text": "Necesitas:"
+        },
+        "points": {
+            "point": "Elegir un tipo de sociedad",
+            "point_2": "Escoger un nombre para tu empresa",
+            "point_3": "Platicarnos más de tus objetivos",
+            "point_4": "Pagar"
+        },
+        "points_representation": {
+            "point": "Platicarnos más de tus objetivos",
+            "point_2": "Elegir un tipo de sociedad.",
+            "point_3": "Escoger un Paquete.",
+            "point_4": "Suscribirte"
+        }
+    },
+    "en": {},
+    "cn": {}
+}

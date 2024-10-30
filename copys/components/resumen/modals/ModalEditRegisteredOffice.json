@@ -1,0 +1,37 @@
+{
+    "es": {
+        "title": "Domicilio Social",
+        "registered_office": "Domicilio Social",
+        "types": {
+            "mazatlan": "Mazatlán",
+            "cdmx": "CDMX"
+        },
+        "next_button": "Confirmar",
+        "cancel_button": "Cancelar",
+        "add_button": "Agregar",
+        "pay_button": "Pagar",
+        "complete_button": "Completar",
+        "service_cost": {
+            "text": "El cambio de domicilio a CDMX tiene un costo adicional de $",
+            "text_2": ".00 mxn"
+        },
+        "go_to_pay": {
+            "text": "A continuacion completa el pago del cambio del Domicilio Social, recuerda utilizar el correo con el que inicias sesión en Tally ",
+            "text_2": ", para que podamos reconocer el pago que realizaras."
+        },
+        "complete_pay": {
+            "text": "Una vez completado el pago del cambio del Domicilio Social presiona el boton completar para actualizar el domicilio.",
+            "text_2": "Recuerda que debes utilizar el correo con el que inicias sesión en Tally ",
+            "text_3": ", para que podamos reconocer el pago que realizastes.",
+            "text_4": "Si no se abrio la nueva pestaña de stripe para pagar entra ",
+            "text_link": "aquí",
+            "text_5": "."
+        },
+        "tooltip_msj": {
+            "msj": "Nosotros trabajamos con la notaria 248 de Mazatlán, donde el Notario Ernesto Cardenas, uno de los fundadores de Weetrust, empresa de firma digital y aliada de Tally, nos proporciona el Servicio Notarial.",
+            "msj_2": "El Domicilio Social es diferente al Fiscal y todas tus actas posteriores pordrán ser firmadas de forma digital."
+        }
+    },
+    "en": {},
+    "cn": {}
+}

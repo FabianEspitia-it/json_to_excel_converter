@@ -1,0 +1,16 @@
+{
+    "es": {
+        "title": "Administración",
+        "text": "Consejo de administración",
+        "role": "Consejo",
+        "name": "Socios",
+        "power": "Poderes",
+        "unique_administrator": "Administrador único",
+        "president": "Presidente",
+        "secretary": "Secretario",
+        "treasurer": "Tesorero",
+        "member": "Miembro"
+    },
+    "en": {},
+    "cn": {}
+}

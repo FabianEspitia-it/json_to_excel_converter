@@ -1,0 +1,10 @@
+{
+    "es": {
+        "title": "Constancia de situación fiscal",
+        "text": "Recuerda que un documento inválido retrasará tu proceso",
+        "tooltip": "Recuerda que debe ser la Constancia de Situación Fiscal, el Acuse de Inscripción no será válido.",
+        "next_button": "Aceptar"
+    },
+    "en": {},
+    "cn": {}
+}

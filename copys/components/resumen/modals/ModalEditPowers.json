@@ -1,0 +1,43 @@
+{
+    "es": {
+        "title": "Poderes",
+        "power": "Poder",
+        "add_power": "Agregar poder",
+        "cfi": "Constancia de Situación Fiscal",
+        "go_to_pay": {
+            "text": "A continuacion completa el pago del servicio de apoderados, recuerda utilizar el correo con el que inicias sesión en Tally ",
+            "text_2": ", para que podamos reconocer el pago que realizaras."
+        },
+        "complete_pay": {
+            "text": "Una vez completado el pago del servicio de apoderados presiona el boton completar para agregar el apoderado.",
+            "text_2": "Recuerda que debes utilizar el correo con el que inicias sesión en Tally ",
+            "text_3": ", para que podamos reconocer el pago que realizastes.",
+            "text_4": "Si no se abrio la nueva pestaña de stripe para pagar entra ",
+            "text_link": "aquí",
+            "text_5": "."
+        },
+        "service_cost": {
+            "text": "Este servicio tiene un costo de $",
+            "text_2": ".00 mxn"
+        },
+        "msj": "Poder para administrar la empresa, abrir cuentas bancarias y realizar trámites fiscales.",
+        "new_attorney_msj": "Importante",
+        "new_attorney_msj_2": "Evita complicaciones futuras y asegurate de que el nombre completo y el RFC del nuevo Apoderado sean correctos.",
+        "next_button": "Confirmar",
+        "cancel_button": "Cancelar",
+        "add_button": "Agregar",
+        "pay_button": "Pagar",
+        "complete_button": "Completar",
+        "inputs": {
+            "name": "Nombre del apoderado",
+            "rfc": "RFC"
+        },
+        "unique_administrator": "Administrador único",
+        "president": "Presidente",
+        "secretary": "Secretario",
+        "treasurer": "Tesorero",
+        "member": "Miembro"
+    },
+    "en": {},
+    "cn": {}
+}

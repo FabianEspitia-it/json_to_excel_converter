@@ -1,0 +1,34 @@
+{
+    "es": {
+        "title": "Agendar cita",
+        "title_2": "Re-agendar cita",
+        "title_payment": "Realiza tu pago",
+        "text": "Te daremos las opciones más cercanas a tu localidad",
+        "text_payment": "Al pagar te agendaremos una nueva cita a la brevedad",
+        "partner": "Persona que acudirá",
+        "partner_rfc": "Solo puede ir un socio con RFC",
+        "option_empty": "Selecciona una opción",
+        "option_empty_2": "Ningun socio cuenta con un RFC valido",
+        "office": "Oficina SAT",
+        "entity_module": "Sucursal",
+        "reason_rejection": "Motivo de cancelación",
+        "reason": "Motivo",
+        "next_button": "Continuar",
+        "go_to_pay_button": "Pagar en Stripe",
+        "reschedule": "Re-agendar cita",
+        "total": "Total: ",
+        "mxn": " MXN",
+        "peso": "$",
+        "pay_appoinment": "A partir de la tercera cita el costo sera de $599.00 mxn",
+        "pay_items": "¿De qué se compone tu pago?",
+        "reasons_rejection": {
+            "attend_appoinment": "No pude asistir a mi cita",
+            "delayed_delivery": "No llego la paquetería a tiempo",
+            "error_act": "Mi acta tiene errores",
+            "error_address": "Tuve un error en el comprobante de domicilio",
+            "other": "Otro"
+        }
+    },
+    "en": {},
+    "cn": {}
+}

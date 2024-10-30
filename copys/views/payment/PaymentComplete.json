@@ -1,0 +1,14 @@
+{
+    "es": {
+        "title": "¡Felicidades tu pago fue exitoso!",
+        "text": "¿Qué sigue?",
+        "button_text": "Continuar",
+        "points": {
+            "point": "Agregar socios",
+            "point_2": "Subir documentos",
+            "point_3": "Revisar proyecto de Constitución"
+        }
+    },
+    "en": {},
+    "cn": {}
+}

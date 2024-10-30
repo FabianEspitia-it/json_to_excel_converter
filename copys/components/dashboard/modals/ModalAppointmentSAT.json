@@ -1,0 +1,12 @@
+{
+    "es": {
+        "title": "Escoge la oficina a la que quieres ir",
+        "partner": "Persona que acudirá",
+        "partner_rfc": "Solo puede ir un socio con RFC",
+        "partnerwithout_rfc": "Ningun socio cuenta con un RFC valido",
+        "sat": "Oficina SAT",
+        "next_button": "Continuar"
+    },
+    "en": {},
+    "cn": {}
+}

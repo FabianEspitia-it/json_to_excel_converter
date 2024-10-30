@@ -1,0 +1,16 @@
+{
+    "es": {
+        "return": "Regresar",
+        "title": "¡Estás a un paso!",
+        "text": "Solo te falta pagar el total",
+        "text_2": "Después de realizar el pago podrás:",
+        "next_button": "Continuar",
+        "points": {
+            "point": "Ver la versión final de tu proyecto y agendar revisión con tu asesor por cualquier duda que tengas.",
+            "point_2": "Firmar tu Acta de forma 100% digital.",
+            "point_3": "Agendar tu cita para el Alta del SAT y desbloquear todos los beneficios."
+        }
+    },
+    "en": {},
+    "cn": {}
+}

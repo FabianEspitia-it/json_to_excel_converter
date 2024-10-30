@@ -1,0 +1,38 @@
+{
+    "es": {
+        "title": "Inicia sesión",
+        "email": "Correo electrónico",
+        "email_error": "Ingresa un correo válido",
+        "password": "Contraseña",
+        "password_error": "Tu contraseña no coincide",
+        "password_remember": {
+            "remember": "¿No recuerdas tu contraseña?",
+            "here": "Da click aquí"
+        },
+        "login": "Ingresar"
+    },
+    "en": {
+        "title": "Login",
+        "email": "Email",
+        "email_error": "Introduce a valid email",
+        "password": "Password",
+        "password_error": "Password do not match",
+        "password_remember": {
+            "remember": "Forgot your password?",
+            "here": "Click here"
+        },
+        "login": "login"
+    },
+    "cn": {
+        "title": "登入",
+        "email": "电子邮件",
+        "email_error": "输入有效的电子邮件",
+        "password": "密码",
+        "password_error": "您的密码不匹配",
+        "password_remember": {
+            "remember": "不记得您的密码？",
+            "here": "点击这里"
+        },
+        "login": "进入"
+    }
+}

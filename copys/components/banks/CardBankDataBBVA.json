@@ -1,0 +1,149 @@
+{
+    "es": {
+        "title": "Datos generales",
+        "tas": "TAS (Tarjeta de acceso seguro)",
+        "code_access": "Código de acceso",
+        "code_operation": "Código de operación",
+        "hidden_data": "**********************",
+        "account_mxn": "Cuenta Nacional MXN",
+        "account_number_mxn": "Número de cuenta en mxn",
+        "account_clabe_mxn": "Clabe mxn",
+        "transfers_mxn": "Recibir Transferencias Nacionales MXN",
+        "account_usd": "Cuenta Internacional USD",
+        "account_number_usd": "Número de cuenta en usd",
+        "account_clabe_usd": "Clabe usd",
+        "transfers_usd": "Recibir Transferencias Internacionales USD",
+        "share_data": "Compartir información",
+        "swift": "Código SWIFT",
+        "account_pyme": "¿Ya sabes cómo Acceder a tu Cuenta PYME BBVA?",
+        "explain_pyme": "Te explicamos cómo: ",
+        "video": "Ver video",
+        "receive_transfers_usd": {
+            "title": "💸 Transferencias internacionales",
+            "points": {
+                "benefit": {
+                    "name": "Beneficiario: ",
+                    "text": "[Nombre completo de tu empresa]"
+                },
+                "account": {
+                    "name": "Cuenta: ",
+                    "text": "[Cuenta BBVA]"
+                },
+                "clabe": {
+                    "name": "Clabe: ",
+                    "text": "[Cuenta CLABE 18 digitos]"
+                },
+                "swift": {
+                    "name": "SWIFT: ",
+                    "text": "BCMRMXMMPYM"
+                },
+                "bank": {
+                    "name": "Banco: ",
+                    "text": "BBVA-MEXICO"
+                },
+                "address": {
+                    "name": "Dirección Banco: ",
+                    "text": "Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX"
+                }
+            }
+        }
+    },
+    "en": {
+        "title": "General information",
+        "tas": "TAS (Secure access key)",
+        "code_access": "Access token",
+        "code_operation": "Transaction authorization code",
+        "hidden_data": "**********************",
+        "account_mxn": "National account in MXN",
+        "account_number_mxn": "Account number in MXN",
+        "account_clabe_mxn": "CLABE MXN",
+        "transfers_mxn": "Receive local wires in MXN",
+        "account_usd": "International account in USD",
+        "account_number_usd": "Account number in USD",
+        "account_clabe_usd": "CLABE USD",
+        "transfers_usd": "Receive international wires in USD",
+        "share_data": "Share information",
+        "swift": "Swift code",
+        "account_pyme": "Know how to access your BBVA SMB account?",
+        "explain_pyme": "We'll explain how: ",
+        "video": "See video",
+        "receive_transfers_usd": {
+            "title": "💸 International wire transactions",
+            "points": {
+                "benefit": {
+                    "name": "Beneficiary: ",
+                    "text": "[Corporate name in full]"
+                },
+                "account": {
+                    "name": "Account: ",
+                    "text": "[BBVA account number]"
+                },
+                "clabe": {
+                    "name": "CLABE: ",
+                    "text": "[CLABE: 18 digits]"
+                },
+                "swift": {
+                    "name": "SWIFT: ",
+                    "text": "BCMRMXMMPYM"
+                },
+                "bank": {
+                    "name": "Bank: ",
+                    "text": "BBVA-MEXICO"
+                },
+                "address": {
+                    "name": "Bank address: ",
+                    "text": "Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX"
+                }
+            }
+        }
+    },
+    "cn": {
+        "title": "一般数据",
+        "tas": "TAS（安全访问卡）",
+        "code_access": "访问代码",
+        "code_operation": "操作码",
+        "hidden_data": "**********************",
+        "account_mxn": "墨西哥比索国民账户",
+        "account_number_mxn": "帐号（MXN）",
+        "account_clabe_mxn": "克拉贝米xn",
+        "transfers_mxn": "接收墨西哥比索国内转账",
+        "account_usd": "美元国际账户",
+        "account_number_usd": "美元帐号",
+        "account_clabe_usd": "克拉贝美元",
+        "transfers_usd": "接收国际美元转账",
+        "share_data": "分享信息",
+        "swift": "SWIFT代码",
+        "account_pyme": "您是否已经知道如何访问您的 BBVA SME 帐户？",
+        "explain_pyme": "我们解释如何： ",
+        "video": "看视频",
+        "receive_transfers_usd": {
+            "title": "💸 国际转账",
+            "points": {
+                "benefit": {
+                    "name": "受益人： ",
+                    "text": "[贵公司全名]"
+                },
+                "account": {
+                    "name": "帐户： ",
+                    "text": "[西班牙对外银行账户]"
+                },
+                "clabe": {
+                    "name": "克拉贝： ",
+                    "text": "[18位CLABE账户]"
+                },
+                "swift": {
+                    "name": "迅速： ",
+                    "text": "BCMRMXMMPYM"
+                },
+                "bank": {
+                    "name": "银行： ",
+                    "text": "BBVA-MEXICO"
+                },
+                "address": {
+                    "name": "银行地址： ",
+                    "text": "Av. Paseo de la Reforma 510, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX"
+                }
+            }
+        }
+    }
+}

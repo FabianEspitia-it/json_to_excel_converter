@@ -1,0 +1,22 @@
+{
+    "es": {
+        "title": "¿Qué tipo de sociedad necesita tu empresa?",
+        "next_button": "Continuar",
+        "options": {
+            "sapi": {
+                "title": "S.A.P.I de C.V.",
+                "text": "La favorita de los fondos de inversión, este tipo de sociedad te permite tener un consejo, emitir acciones a trabajadores clave y a inversionistas con diferentes derechos de voto."
+            },
+            "sa": {
+                "title": "S.A. de C.V.",
+                "text": "La Sociedad Anónima es ideal para cualquier tipo de negocio. Puedes nombrar a un administrador único o consejo de administración."
+            },
+            "srl": {
+                "title": "S. de R.L. de C.V.",
+                "text": "Recomendada para empresas familiares donde se pretende que los socios no varien a lo largo del tiempo, puede ser administrada por una o varias personas. "
+            }
+        }
+    },
+    "en": {},
+    "cn": {}
+}

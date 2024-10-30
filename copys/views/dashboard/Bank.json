@@ -1,0 +1,18 @@
+{
+    "es": {
+        "title": "Cuenta empresarial",
+        "text": "Información sobre tu cuenta",
+        "code": {
+            "title": "Acceder a los datos bancarios",
+            "text": "Para acceder a los datos bancarios enviaremos un código a +",
+            "text_2": "Para acceder a los datos bancarios ingresa el código que enviamos a +",
+            "resend": "¿No lo recibiste? ",
+            "resend_2": "Reenviar",
+            "resend_3": "Volver a reenviar en ",
+            "button": "Enviar código",
+            "button_2": "Validar"
+        }
+    },
+    "en": {},
+    "cn": {}
+}

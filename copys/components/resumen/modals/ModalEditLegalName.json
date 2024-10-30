@@ -1,0 +1,11 @@
+{
+    "es": {
+        "title": "Nombre de tu empresa",
+        "text": "Edita tu información",
+        "legal_name": "Nombre de tu empresa",
+        "legal_name_error": "Mejora tus probabilidades de aprobación eligiendo un nuevo nombre.",
+        "next_button": "Validar"
+    },
+    "en": {},
+    "cn": {}
+}

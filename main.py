@@ -57,7 +57,7 @@ def flatten_dict(d, parent_keys=[]):
 
 
 def excel_to_json(excel_file, json_folder):
-    df = pd.read_excel(excel_file).fillna('')
+    df = pd.read_excel(excel_file).fillna('')  # Reemplaza NaN con cadena vacía
 
     if not os.path.exists(json_folder):
         os.makedirs(json_folder)
@@ -65,11 +65,6 @@ def excel_to_json(excel_file, json_folder):
     unique_files = df['Archivo'].unique()
 
     for file in unique_files:
-
-        if not file or file.isspace():
-            print("Advertencia: Se encontró un valor 'Archivo' vacío o inválido.")
-            continue
-
         df_file = df[df['Archivo'] == file]
 
         output = {
@@ -79,39 +74,46 @@ def excel_to_json(excel_file, json_folder):
         }
 
         for _, row in df_file.iterrows():
-            keys = row['Llaves']
+            keys = [row['Llaves']]
+            if row[2] != '':
+                keys.append(row[2])
+            if row[3] != '':
+                keys.append(row[3])
+            if row[4] != '':
+                keys.append(row[4])
+
             spanish = row['Español']
             english = row['Ingles']
             chinese = row['Chino']
 
-            if spanish:
-                output["es"][keys] = spanish
-            if english:
-                output["en"][keys] = english
-            if chinese:
-                output["cn"][keys] = chinese
+            add_to_dict(output["es"], keys, spanish)
+            add_to_dict(output["en"], keys, english)
+            add_to_dict(output["cn"], keys, chinese)
 
         relative_path = file.replace('copys/', '').strip('/')
         relative_path = re.sub(r'[^a-zA-Z0-9_./-]', '', relative_path)
 
-        if not relative_path:
-            print(f"Advertencia: La ruta relativa para '{
-                  file}' resultó vacía después de limpiar.")
-            continue
-
-        full_path = os.path.join(json_folder, relative_path.lstrip('/'))
+        full_path = os.path.join(json_folder, relative_path)
 
         folder_path = os.path.dirname(full_path)
         os.makedirs(folder_path, exist_ok=True)
 
-        try:
-            with open(full_path, 'w', encoding='utf-8') as f:
-                json.dump(output, f, ensure_ascii=False, indent=4)
-            print(f"Done: {full_path}")
-        except PermissionError:
-            print(f"Error de permiso: No se puede escribir en '{
-                  full_path}'. Verifique los permisos.")
+        with open(full_path, 'w', encoding='utf-8') as f:
+            json.dump(output, f, ensure_ascii=False, indent=4)
+
+        print(f"Done: {full_path}")
 
 
-# excel_to_json("tally_copys.xlsx", "./copys")
-json_to_excel("./copys", "./test.xlsx")
+def add_to_dict(dic, keys, value):
+    if value:
+        current_level = dic
+        for key in keys[:-1]:
+            if key not in current_level:
+                current_level[key] = {}
+            current_level = current_level[key]
+
+        current_level[keys[-1]] = value
+
+
+excel_to_json("test.xlsx", "./copys")
+# json_to_excel("./copys", "./test.xlsx")

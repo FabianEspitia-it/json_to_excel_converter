@@ -1,0 +1,34 @@
+{
+    "es": {
+        "title": "Socios",
+        "subtitle": "Edita tu información",
+        "msj": "['Si agregas un nuevo socio deberás regresar a la etapa de validación.', 'Si eliminas a un socio perderemos su información.']",
+        "next_button": "Guardar",
+        "partner": "Socio",
+        "partner_show": {
+            "show": "Agregar",
+            "hidden": "Ocultar",
+            "info": "información"
+        },
+        "subsidiary": "¿Este socio es una empresa? Ejemplo: una LLC",
+        "optional": "Opcional",
+        "delete_partner": "Eliminar socio",
+        "add_partner": "Agregar otro socio",
+        "min_partner": "Deben haber minimo 2 socios",
+        "button_text": "Guardar",
+        "inputs": {
+            "name": "Nombre(s)",
+            "first_names": "Primer apellido",
+            "last_names": "Segundo apellido",
+            "email": "Correo electrónico",
+            "email_error": "Ingresa un correo válido.",
+            "email_error_2": "Este correo ya está registrado, intenta con otro.",
+            "email_msj": "Enviaremos una invitación a este correo",
+            "password": "Crea una contraseña",
+            "phone": "Número de teléfono (opcional)",
+            "phone_msj": "Te enviaremos un código de verificación vía SMS"
+        }
+    },
+    "en": {},
+    "cn": {}
+}

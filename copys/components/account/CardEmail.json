@@ -1,0 +1,20 @@
+{
+    "es": {
+        "loader": "Esto tardará unos segundos",
+        "title": "Correo electrónico",
+        "text": "*Este es tu correo de acceso a tu cuenta",
+        "open_modal": "Actualizar"
+    },
+    "en": {
+        "loader": "This may take a few seconds",
+        "title": "Email",
+        "text": "*Tally login email is:",
+        "open_modal": "Update"
+    },
+    "cn": {
+        "loader": "这将需要几秒钟的时间",
+        "title": "电子邮件",
+        "text": "*这是您的帐户访问电子邮件",
+        "open_modal": "更新"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "es": {
+        "title": "¿Este documento está correcto?",
+        "text": "Recuerda que un documento inválido retrasará tu proceso",
+        "approved_button": "Aprobar",
+        "reject_button": "Subir otro"
+    },
+    "en": {},
+    "cn": {}
+}
